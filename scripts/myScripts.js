@@ -1,4 +1,4 @@
-var person = prompt("What on Earth even is your name?", "Josh Andrews");
+var person = prompt("What on Earth even is your name?", "Enter your name!");
 
 if (person != null) {
   document.getElementById("demo").innerHTML =
